@@ -4,6 +4,7 @@ Data Collection and Preprocessing
 Gather data from reliable sources.
 Select relevant features (e.g., location, size, amenities).
 Clean data (handle missing values, outliers).
+
 Exploratory Data Analysis (EDA)
 
 Understand data distribution and correlations.
